@@ -1,9 +1,9 @@
 
 const main = () => {
     return (
-        <div>
-            main text
-        </div>
+        <main className="main">
+            main area
+        </main>
     )
 }
 
